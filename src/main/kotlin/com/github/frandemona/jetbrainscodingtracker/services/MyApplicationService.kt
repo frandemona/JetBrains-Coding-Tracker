@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.frandemona.jetbrainscodingtracker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.frandemona.jetbrainscodingtracker.MyBundle
 
 class MyApplicationService {
 
